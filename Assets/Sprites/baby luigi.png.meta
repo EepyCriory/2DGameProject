@@ -1,0 +1,4104 @@
+fileFormatVersion: 2
+guid: 37906a6965f75c84f9281a12f956147b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -936394440186951113
+    second: baby luigi_0
+  - first:
+      213: 6232479858923444669
+    second: baby luigi_1
+  - first:
+      213: 4484769817063518032
+    second: baby luigi_2
+  - first:
+      213: 1690856154258764464
+    second: baby luigi_3
+  - first:
+      213: 3988209286317048635
+    second: baby luigi_4
+  - first:
+      213: 7827889535200919931
+    second: baby luigi_5
+  - first:
+      213: -3841948555050085663
+    second: baby luigi_6
+  - first:
+      213: 2607013084067847819
+    second: baby luigi_7
+  - first:
+      213: 1721994181726810988
+    second: baby luigi_8
+  - first:
+      213: 5360258629945119174
+    second: baby luigi_9
+  - first:
+      213: 4707448550679594661
+    second: baby luigi_10
+  - first:
+      213: -1752690274136249361
+    second: baby luigi_11
+  - first:
+      213: -2703569880863528296
+    second: baby luigi_12
+  - first:
+      213: 9005223636384776774
+    second: baby luigi_13
+  - first:
+      213: 4361839950524465929
+    second: baby luigi_14
+  - first:
+      213: -7508353046328161222
+    second: baby luigi_15
+  - first:
+      213: -5457616639852848715
+    second: baby luigi_16
+  - first:
+      213: -1132634187635831082
+    second: baby luigi_17
+  - first:
+      213: -6791255642951472323
+    second: baby luigi_18
+  - first:
+      213: 3517847535241648963
+    second: baby luigi_19
+  - first:
+      213: -72857899891879698
+    second: baby luigi_20
+  - first:
+      213: 9124990046686549152
+    second: baby luigi_21
+  - first:
+      213: 2012777927051533653
+    second: baby luigi_22
+  - first:
+      213: -3741357766090423758
+    second: baby luigi_23
+  - first:
+      213: 3364617632904626279
+    second: baby luigi_24
+  - first:
+      213: -8505144824746997620
+    second: baby luigi_25
+  - first:
+      213: 3572086544865750909
+    second: baby luigi_26
+  - first:
+      213: 4616982644734827720
+    second: baby luigi_27
+  - first:
+      213: -2424177090033116743
+    second: baby luigi_28
+  - first:
+      213: 385791837749045084
+    second: baby luigi_29
+  - first:
+      213: -8646379050267001861
+    second: baby luigi_30
+  - first:
+      213: -2687980395096679941
+    second: baby luigi_31
+  - first:
+      213: -2958868703774783541
+    second: baby luigi_32
+  - first:
+      213: 7418378299732773634
+    second: baby luigi_33
+  - first:
+      213: -5066245204032393339
+    second: baby luigi_34
+  - first:
+      213: -210314612766725698
+    second: baby luigi_35
+  - first:
+      213: 8502565483092262945
+    second: baby luigi_36
+  - first:
+      213: 5152837087855807398
+    second: baby luigi_37
+  - first:
+      213: -8403157170718877340
+    second: baby luigi_38
+  - first:
+      213: -7399075958806813442
+    second: baby luigi_39
+  - first:
+      213: 7721107061554326242
+    second: baby luigi_40
+  - first:
+      213: -5743021294679914920
+    second: baby luigi_41
+  - first:
+      213: 4318048889453567058
+    second: baby luigi_42
+  - first:
+      213: -665221088973227876
+    second: baby luigi_43
+  - first:
+      213: -4203559362554397331
+    second: baby luigi_44
+  - first:
+      213: 8192030535957628165
+    second: baby luigi_45
+  - first:
+      213: -8490131838850013150
+    second: baby luigi_46
+  - first:
+      213: -2690641780622880396
+    second: baby luigi_47
+  - first:
+      213: 1172707941989845320
+    second: baby luigi_48
+  - first:
+      213: 7636862477408897059
+    second: baby luigi_49
+  - first:
+      213: -5301320531269526600
+    second: baby luigi_50
+  - first:
+      213: 7697067886263866143
+    second: baby luigi_51
+  - first:
+      213: 4622907371012442267
+    second: baby luigi_52
+  - first:
+      213: 5959371081396414893
+    second: baby luigi_53
+  - first:
+      213: -3724515175148181865
+    second: baby luigi_54
+  - first:
+      213: 3513204108458514872
+    second: baby luigi_55
+  - first:
+      213: 2262508454922601669
+    second: baby luigi_56
+  - first:
+      213: 3611452683907155656
+    second: baby luigi_57
+  - first:
+      213: -2320423613258330915
+    second: baby luigi_58
+  - first:
+      213: 6892443967478476252
+    second: baby luigi_59
+  - first:
+      213: -4390863447842188357
+    second: baby luigi_60
+  - first:
+      213: -1834993942906195331
+    second: baby luigi_61
+  - first:
+      213: -8678091095900076181
+    second: baby luigi_62
+  - first:
+      213: 2483536810164158881
+    second: baby luigi_63
+  - first:
+      213: -7568171212476858913
+    second: baby luigi_64
+  - first:
+      213: -7215820156056686184
+    second: baby luigi_65
+  - first:
+      213: 4137742310205248529
+    second: baby luigi_66
+  - first:
+      213: 3580213995933610425
+    second: baby luigi_67
+  - first:
+      213: 2226699225608342583
+    second: baby luigi_68
+  - first:
+      213: 2043752485226720358
+    second: baby luigi_69
+  - first:
+      213: -5003900433860792809
+    second: baby luigi_70
+  - first:
+      213: -1675616548494639098
+    second: baby luigi_71
+  - first:
+      213: -1114741304289945347
+    second: baby luigi_72
+  - first:
+      213: -1153934034703048146
+    second: baby luigi_73
+  - first:
+      213: 3297225697350239101
+    second: baby luigi_74
+  - first:
+      213: -1065123076226482588
+    second: baby luigi_75
+  - first:
+      213: -9011211761982063961
+    second: baby luigi_76
+  - first:
+      213: -4066480684190523000
+    second: baby luigi_77
+  - first:
+      213: -4407883394162372424
+    second: baby luigi_78
+  - first:
+      213: 7735791030543782466
+    second: baby luigi_79
+  - first:
+      213: -7080239331307182716
+    second: baby luigi_80
+  - first:
+      213: -3293468880856425600
+    second: baby luigi_81
+  - first:
+      213: -1526816431116101328
+    second: baby luigi_82
+  - first:
+      213: 3253412081701019542
+    second: baby luigi_83
+  - first:
+      213: 8984270539536345128
+    second: baby luigi_84
+  - first:
+      213: -4327017737323337736
+    second: baby luigi_85
+  - first:
+      213: 5424721071509742612
+    second: baby luigi_86
+  - first:
+      213: 1218081812625812224
+    second: baby luigi_87
+  - first:
+      213: -3955143720619716295
+    second: baby luigi_88
+  - first:
+      213: -8284243889189134725
+    second: baby luigi_89
+  - first:
+      213: 7405571978518290862
+    second: baby luigi_90
+  - first:
+      213: -2318932287582198814
+    second: baby luigi_91
+  - first:
+      213: 3204205837174082060
+    second: baby luigi_92
+  - first:
+      213: -4986315359121427959
+    second: baby luigi_93
+  - first:
+      213: -1767901985810303190
+    second: baby luigi_94
+  - first:
+      213: 1901193288553467209
+    second: baby luigi_95
+  - first:
+      213: -6108533555305560833
+    second: baby luigi_96
+  - first:
+      213: 3104748838718959094
+    second: baby luigi_97
+  - first:
+      213: 8238574559486533083
+    second: baby luigi_98
+  - first:
+      213: -6512016316350595383
+    second: baby luigi_99
+  - first:
+      213: 7159412582122028922
+    second: baby luigi_100
+  - first:
+      213: -1060308615847496222
+    second: baby luigi_101
+  - first:
+      213: 4026032350999247808
+    second: baby luigi_102
+  - first:
+      213: -2459302249661782403
+    second: baby luigi_103
+  - first:
+      213: 8573782039034387547
+    second: baby luigi_104
+  - first:
+      213: 7068429339858096909
+    second: baby luigi_105
+  - first:
+      213: 8214828352775454761
+    second: baby luigi_106
+  - first:
+      213: 1168619318507296536
+    second: baby luigi_107
+  - first:
+      213: 2385263774478590068
+    second: baby luigi_108
+  - first:
+      213: 7040928535977270427
+    second: baby luigi_109
+  - first:
+      213: -2199386748694693194
+    second: baby luigi_110
+  - first:
+      213: -4053344986146870447
+    second: baby luigi_111
+  - first:
+      213: -7616175448111719168
+    second: baby luigi_112
+  - first:
+      213: -7576790092537419878
+    second: baby luigi_113
+  - first:
+      213: -1713696117167134287
+    second: baby luigi_114
+  - first:
+      213: 6792126226084607081
+    second: baby luigi_115
+  - first:
+      213: 7933152315363097797
+    second: baby luigi_116
+  - first:
+      213: 4399996694658323422
+    second: baby luigi_117
+  - first:
+      213: 7707036052041382449
+    second: baby luigi_118
+  - first:
+      213: 6660602497625478121
+    second: baby luigi_119
+  - first:
+      213: 646429770673254838
+    second: baby luigi_120
+  - first:
+      213: -1904252287992698506
+    second: baby luigi_121
+  - first:
+      213: -5182485803929897143
+    second: baby luigi_122
+  - first:
+      213: -8992067407775696926
+    second: baby luigi_123
+  - first:
+      213: 2026316413085348687
+    second: baby luigi_124
+  - first:
+      213: -3687772899231203588
+    second: baby luigi_125
+  - first:
+      213: 8731980407421481096
+    second: baby luigi_126
+  - first:
+      213: 3286720424000379022
+    second: baby luigi_127
+  - first:
+      213: -7971472044754450396
+    second: baby luigi_128
+  - first:
+      213: -8005056065645229980
+    second: baby luigi_129
+  - first:
+      213: 2611063878554295211
+    second: baby luigi_130
+  - first:
+      213: -3424043701270215659
+    second: baby luigi_131
+  - first:
+      213: -6464980889373940659
+    second: baby luigi_132
+  - first:
+      213: -8234960969948917956
+    second: baby luigi_133
+  - first:
+      213: -3187351154926512669
+    second: baby luigi_134
+  - first:
+      213: 6784730401564539083
+    second: baby luigi_135
+  - first:
+      213: -3057649857984432748
+    second: baby luigi_136
+  - first:
+      213: 1386690919071352579
+    second: baby luigi_137
+  - first:
+      213: 1385087680959671297
+    second: baby luigi_138
+  - first:
+      213: -7815277960796173388
+    second: baby luigi_139
+  - first:
+      213: 920445411788559290
+    second: baby luigi_140
+  - first:
+      213: 579926080162480601
+    second: baby luigi_141
+  - first:
+      213: 8976315907976328535
+    second: baby luigi_142
+  - first:
+      213: 2711662866324173437
+    second: baby luigi_143
+  - first:
+      213: -912480254698677817
+    second: baby luigi_144
+  - first:
+      213: -75349620068729825
+    second: baby luigi_145
+  - first:
+      213: 8715822061025533587
+    second: baby luigi_146
+  - first:
+      213: 596974335510932961
+    second: baby luigi_147
+  - first:
+      213: 4148675594658726788
+    second: baby luigi_148
+  - first:
+      213: 8994831974592279920
+    second: baby luigi_149
+  - first:
+      213: 5967914194215332838
+    second: baby luigi_150
+  - first:
+      213: -822344648452051359
+    second: baby luigi_151
+  - first:
+      213: 7065316823431760750
+    second: baby luigi_152
+  - first:
+      213: -948717704549244869
+    second: baby luigi_153
+  - first:
+      213: -4036492008393222786
+    second: baby luigi_154
+  - first:
+      213: 7465949813809984620
+    second: baby luigi_155
+  - first:
+      213: -5029852257101314216
+    second: baby luigi_156
+  - first:
+      213: -6852009309366396087
+    second: baby luigi_157
+  - first:
+      213: 512818815752195153
+    second: baby luigi_158
+  - first:
+      213: -137112948242184605
+    second: baby luigi_159
+  - first:
+      213: -7708332892402394093
+    second: baby luigi_160
+  - first:
+      213: 4773525276745407297
+    second: baby luigi_161
+  - first:
+      213: -928614417469922890
+    second: baby luigi_162
+  - first:
+      213: 5878957410809002288
+    second: baby luigi_163
+  - first:
+      213: 3715045164509383160
+    second: baby luigi_164
+  - first:
+      213: 4629748530287131631
+    second: baby luigi_165
+  - first:
+      213: -5315773113696624791
+    second: baby luigi_166
+  - first:
+      213: -5919240325487668195
+    second: baby luigi_167
+  - first:
+      213: -2603350073149110324
+    second: baby luigi_168
+  - first:
+      213: 8053938026900021956
+    second: baby luigi_169
+  - first:
+      213: 1459032734640841652
+    second: baby luigi_170
+  - first:
+      213: 8585824958910437385
+    second: baby luigi_171
+  - first:
+      213: 6188389610660020080
+    second: baby luigi_172
+  - first:
+      213: 1323885973115695940
+    second: baby luigi_173
+  - first:
+      213: 9183199228620370304
+    second: baby luigi_174
+  - first:
+      213: 1189996555954508509
+    second: baby luigi_175
+  - first:
+      213: -2248380204693750071
+    second: baby luigi_176
+  - first:
+      213: 899020960986870688
+    second: baby luigi_177
+  - first:
+      213: 7473571452175928948
+    second: baby luigi_178
+  - first:
+      213: -1007140764652626147
+    second: baby luigi_179
+  - first:
+      213: 140563659861272616
+    second: baby luigi_180
+  - first:
+      213: 5092172314546314465
+    second: baby luigi_181
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: baby luigi_0
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 719
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73a8107c7324103f0800000000000000
+      internalID: -936394440186951113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby luigi_1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 687
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db998ec19673e7650800000000000000
+      internalID: 6232479858923444669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby luigi_2
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 687
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05fe675236a1d3e30800000000000000
+      internalID: 4484769817063518032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby luigi_3
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 687
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b270e8b6b0277710800000000000000
+      internalID: 1690856154258764464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby luigi_4
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 687
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3387d82737f85730800000000000000
+      internalID: 3988209286317048635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby luigi_5
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 687
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7106aeee0042ac60800000000000000
+      internalID: 7827889535200919931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby luigi_6
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 687
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e21aea0528aeaac0800000000000000
+      internalID: -3841948555050085663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby luigi_7
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 687
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8ed8a06698fd2420800000000000000
+      internalID: 2607013084067847819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby luigi_8
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 687
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c63bd13b590c5e710800000000000000
+      internalID: 1721994181726810988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby luigi_9
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 655
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c1d916f2d6736a40800000000000000
+      internalID: 5360258629945119174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby luigi_10
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 655
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a64fa50487345140800000000000000
+      internalID: 4707448550679594661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby luigi_11
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 655
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feba3d85b713da7e0800000000000000
+      internalID: -1752690274136249361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby luigi_12
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 655
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89a2fa9748dfa7ad0800000000000000
+      internalID: -2703569880863528296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby luigi_13
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 655
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6428aa18f2bf8fc70800000000000000
+      internalID: 9005223636384776774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby luigi_14
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 655
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9034e12335e588c30800000000000000
+      internalID: 4361839950524465929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby luigi_15
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 655
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3c43617fa8fcc790800000000000000
+      internalID: -7508353046328161222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby luigi_16
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 655
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b95f4de496a244b0800000000000000
+      internalID: -5457616639852848715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby luigi_17
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 655
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dec08115331840f0800000000000000
+      internalID: -1132634187635831082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby luigi_18
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 655
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3ba20f69fc90c1a0800000000000000
+      internalID: -6791255642951472323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby luigi_19
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 655
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34bdf08e1b7e1d030800000000000000
+      internalID: 3517847535241648963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby luigi_20
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 655
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee01dd540282dfef0800000000000000
+      internalID: -72857899891879698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby luigi_21
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 591
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a41ab7e91a72ae70800000000000000
+      internalID: 9124990046686549152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby luigi_22
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 591
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55d57a94cd2deeb10800000000000000
+      internalID: 2012777927051533653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby luigi_23
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 591
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 232088e2fe6041cc0800000000000000
+      internalID: -3741357766090423758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby luigi_24
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 591
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 760cb4e19e581be20800000000000000
+      internalID: 3364617632904626279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby luigi_25
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 591
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8804b518d7a7f980800000000000000
+      internalID: -8505144824746997620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby luigi_26
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 591
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7fecad69c9929130800000000000000
+      internalID: 3572086544865750909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby luigi_27
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 591
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cc1099e041d21040800000000000000
+      internalID: 4616982644734827720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby luigi_28
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 591
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b99febc7c79b5ed0800000000000000
+      internalID: -2424177090033116743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby luigi_29
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 591
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c57e646e1ab9a5500800000000000000
+      internalID: 385791837749045084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby luigi_30
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 591
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfbb4737014e10880800000000000000
+      internalID: -8646379050267001861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby luigi_31
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 591
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf95c0b721062bad0800000000000000
+      internalID: -2687980395096679941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby luigi_32
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 591
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc7cb76379cffe6d0800000000000000
+      internalID: -2958868703774783541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby luigi_33
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 527
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20bc90562cf53f660800000000000000
+      internalID: 7418378299732773634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby luigi_34
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 527
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58f6f9c34d411b9b0800000000000000
+      internalID: -5066245204032393339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby luigi_35
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 527
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb927f659ffc41df0800000000000000
+      internalID: -210314612766725698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby luigi_36
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 527
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1204633224e2ff570800000000000000
+      internalID: 8502565483092262945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby luigi_37
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 527
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ab8a1fc70e828740800000000000000
+      internalID: 5152837087855807398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby luigi_38
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 527
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4695687331df16b80800000000000000
+      internalID: -8403157170718877340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby luigi_39
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 527
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef4ef211e93315990800000000000000
+      internalID: -7399075958806813442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby luigi_40
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 527
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eaa4bcd6f1e62b60800000000000000
+      internalID: 7721107061554326242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby luigi_41
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 527
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85689117f80bc40b0800000000000000
+      internalID: -5743021294679914920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby luigi_42
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 527
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25c56a2469acceb30800000000000000
+      internalID: 4318048889453567058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby luigi_43
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 527
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c98f6aea1f8a4c6f0800000000000000
+      internalID: -665221088973227876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby luigi_44
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 527
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6d7daaf705f9a5c0800000000000000
+      internalID: -4203559362554397331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby luigi_45
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 473
+        width: 34
+        height: 34
+      alignment: 9
+      pivot: {x: 0.75, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50548e48e50ffa170800000000000000
+      internalID: 8192030535957628165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby luigi_46
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 473
+        width: 34
+        height: 34
+      alignment: 9
+      pivot: {x: 0.75, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2286c11431efc2a80800000000000000
+      internalID: -8490131838850013150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby luigi_47
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 473
+        width: 50
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5039456, y: 0.40839133}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47116206e8be8aad0800000000000000
+      internalID: -2690641780622880396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby luigi_48
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 469
+        width: 34
+        height: 34
+      alignment: 9
+      pivot: {x: 0.25, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8498593f8ab464010800000000000000
+      internalID: 1172707941989845320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby luigi_49
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 469
+        width: 34
+        height: 34
+      alignment: 9
+      pivot: {x: 0.25, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 328877c16f59bf960800000000000000
+      internalID: 7636862477408897059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby luigi_50
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 469
+        width: 34
+        height: 34
+      alignment: 9
+      pivot: {x: 0.25, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bbd13d701ded66b0800000000000000
+      internalID: -5301320531269526600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby luigi_51
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 417
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1313d4367a71da60800000000000000
+      internalID: 7697067886263866143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby luigi_52
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 417
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b984bbeb2cdd72040800000000000000
+      internalID: 4622907371012442267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby luigi_53
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 417
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da96e57ac60f3b250800000000000000
+      internalID: 5959371081396414893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby luigi_54
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 417
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 796adb87e2ddf4cc0800000000000000
+      internalID: -3724515175148181865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby luigi_55
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 417
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b9dc1cd58861c030800000000000000
+      internalID: 3513204108458514872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby luigi_56
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 417
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c4caf4d37b066f10800000000000000
+      internalID: 2262508454922601669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby luigi_57
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 417
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c6ca6be4157e1230800000000000000
+      internalID: 3611452683907155656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby luigi_58
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 417
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddc0f4394033ccfd0800000000000000
+      internalID: -2320423613258330915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby luigi_59
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 418
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdda6db4541e6af50800000000000000
+      internalID: 6892443967478476252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby luigi_60
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 418
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb39e1e35f48013c0800000000000000
+      internalID: -4390863447842188357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby luigi_61
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 418
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d72351c2bbac886e0800000000000000
+      internalID: -1834993942906195331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby luigi_62
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 418
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b674564702a319780800000000000000
+      internalID: -8678091095900076181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby luigi_63
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 418
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a1017c029b477220800000000000000
+      internalID: 2483536810164158881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby luigi_64
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 418
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fddbaf0516478f690800000000000000
+      internalID: -7568171212476858913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby luigi_65
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 418
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89133239cc14cdb90800000000000000
+      internalID: -7215820156056686184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby luigi_66
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 387
+        width: 48
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11453eb55b63c6930800000000000000
+      internalID: 4137742310205248529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby luigi_67
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 387
+        width: 48
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b1318719a97fa130800000000000000
+      internalID: 3580213995933610425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby luigi_68
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 387
+        width: 48
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73cc50ce523d6ee10800000000000000
+      internalID: 2226699225608342583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby luigi_69
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 387
+        width: 48
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66ca2ca9e0edc5c10800000000000000
+      internalID: 2043752485226720358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby luigi_70
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 387
+        width: 48
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71eed4431139e8ab0800000000000000
+      internalID: -5003900433860792809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby luigi_71
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 387
+        width: 48
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 600063f70a30fb8e0800000000000000
+      internalID: -1675616548494639098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby luigi_72
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 387
+        width: 48
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df8975d90b4a780f0800000000000000
+      internalID: -1114741304289945347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby luigi_73
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 349
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e22aa47fb176cffe0800000000000000
+      internalID: -1153934034703048146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby luigi_74
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 349
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d73c9d26d4912cd20800000000000000
+      internalID: 3297225697350239101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby luigi_75
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 349
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46ef277943ce731f0800000000000000
+      internalID: -1065123076226482588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby luigi_76
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 349
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aabc3b55aeb1f280800000000000000
+      internalID: -9011211761982063961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby luigi_77
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 349
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88126d4ec55f097c0800000000000000
+      internalID: -4066480684190523000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby luigi_78
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 349
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b0db9f286d04d2c0800000000000000
+      internalID: -4407883394162372424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby luigi_79
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 349
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2421730d4fc0b5b60800000000000000
+      internalID: 7735791030543782466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby luigi_80
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 349
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 485afa447dfedbd90800000000000000
+      internalID: -7080239331307182716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby luigi_81
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 349
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08bdfbd908f3b42d0800000000000000
+      internalID: -3293468880856425600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby luigi_82
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 349
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 039581a9b88afcae0800000000000000
+      internalID: -1526816431116101328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby luigi_83
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 349
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69fd0cd0d01762d20800000000000000
+      internalID: 3253412081701019542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby luigi_84
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 349
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 828221b747a8eac70800000000000000
+      internalID: 8984270539536345128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby luigi_85
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 313
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f7270e1b4853f3c0800000000000000
+      internalID: -4327017737323337736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby luigi_86
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 313
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4142ae8b21b784b40800000000000000
+      internalID: 5424721071509742612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby luigi_87
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 279
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00bece474fe77e010800000000000000
+      internalID: 1218081812625812224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby luigi_88
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 278
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93158d8cdb18c19c0800000000000000
+      internalID: -3955143720619716295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby luigi_89
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 275
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7e5e281314780d80800000000000000
+      internalID: -8284243889189134725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby luigi_90
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 277
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea16b226a70e5c660800000000000000
+      internalID: 7405571978518290862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby luigi_91
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 278
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e3aa74ee5f71dfd0800000000000000
+      internalID: -2318932287582198814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby luigi_92
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 278
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0a8ef77b30a77c20800000000000000
+      internalID: 3204205837174082060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby luigi_93
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 275
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9023e79799c0dcab0800000000000000
+      internalID: -4986315359121427959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby luigi_94
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 277
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a27b11ab2862777e0800000000000000
+      internalID: -1767901985810303190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby luigi_95
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 11
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94d06951935626a10800000000000000
+      internalID: 1901193288553467209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby luigi_96
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 11
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff4457988112a3ba0800000000000000
+      internalID: -6108533555305560833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby luigi_97
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 11
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fd66a08e98461b20800000000000000
+      internalID: 3104748838718959094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby luigi_98
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 11
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bddd3c979eb455270800000000000000
+      internalID: 8238574559486533083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby luigi_99
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 11
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ceff5499aba0a5a0800000000000000
+      internalID: -6512016316350595383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby luigi_111
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 200
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15bea9ce530afb7c0800000000000000
+      internalID: -4053344986146870447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby luigi_112
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 200
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00ddf3c38c8ed4690800000000000000
+      internalID: -7616175448111719168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby luigi_113
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 200
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a97ab9ced85d9d690800000000000000
+      internalID: -7576790092537419878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby luigi_114
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 200
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b96943067ab738e0800000000000000
+      internalID: -1713696117167134287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby luigi_115
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 200
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 964336ff0da724e50800000000000000
+      internalID: 6792126226084607081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby luigi_116
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 200
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ccf84acff7381e60800000000000000
+      internalID: 7933152315363097797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby luigi_117
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 200
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed3900e7eadef0d30800000000000000
+      internalID: 4399996694658323422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby luigi_118
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 200
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13a3e09a474e4fa60800000000000000
+      internalID: 7707036052041382449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby luigi_119
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 200
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e3db05aea63f6c50800000000000000
+      internalID: 6660602497625478121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby luigi_120
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 200
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b17735937498f800800000000000000
+      internalID: 646429770673254838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby luigi_121
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 200
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 679687b12acb295e0800000000000000
+      internalID: -1904252287992698506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby luigi_122
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 200
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 947f04b8e9c1418b0800000000000000
+      internalID: -5182485803929897143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby luigi_123
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 200
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e7792ba552c53380800000000000000
+      internalID: -8992067407775696926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby luigi_124
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 200
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f43fe74ba0cee1c10800000000000000
+      internalID: 2026316413085348687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby luigi_141
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 107
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d1c11482bf4c0800800000000000000
+      internalID: 579926080162480601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby luigi_142
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 107
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 755fd9e72c7429c70800000000000000
+      internalID: 8976315907976328535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby luigi_143
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 75
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d72bed98203c1a520800000000000000
+      internalID: 2711662866324173437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby luigi_144
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 75
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c9902afa083653f0800000000000000
+      internalID: -912480254698677817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby luigi_145
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 75
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1cb7d57bed44fef0800000000000000
+      internalID: -75349620068729825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby luigi_146
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 75
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39e90f07cf1d4f870800000000000000
+      internalID: 8715822061025533587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby luigi_147
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 75
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ed6728cef0e84800800000000000000
+      internalID: 596974335510932961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby luigi_148
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 75
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48347f3097e039930800000000000000
+      internalID: 4148675594658726788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby luigi_149
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 76
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 075f5e3360014dc70800000000000000
+      internalID: 8994831974592279920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby luigi_150
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 76
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eb673c175a42d250800000000000000
+      internalID: 5967914194215332838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby luigi_151
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 76
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16e621236e17694f0800000000000000
+      internalID: -822344648452051359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby luigi_152
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 76
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6bcd3e973c0d0260800000000000000
+      internalID: 7065316823431760750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby luigi_153
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 43
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b30e734364a75d2f0800000000000000
+      internalID: -948717704549244869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby luigi_154
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 43
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e75d40597ef7bf7c0800000000000000
+      internalID: -4036492008393222786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby luigi_155
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 43
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c64b903acc16c9760800000000000000
+      internalID: 7465949813809984620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby luigi_156
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 43
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85787ce7500623ab0800000000000000
+      internalID: -5029852257101314216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby luigi_157
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 43
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94bdb8d26d5c8e0a0800000000000000
+      internalID: -6852009309366396087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby luigi_158
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 43
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15ccb03fef5ed1700800000000000000
+      internalID: 512818815752195153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby luigi_159
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 43
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3660be10080e81ef0800000000000000
+      internalID: -137112948242184605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby luigi_160
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 43
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31c55e92310860590800000000000000
+      internalID: -7708332892402394093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby luigi_161
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 43
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14b12cea2f7fe3240800000000000000
+      internalID: 4773525276745407297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby luigi_162
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 43
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b126697b16ec13f0800000000000000
+      internalID: -928614417469922890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby luigi_163
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 43
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 039bbe8fd90469150800000000000000
+      internalID: 5878957410809002288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby luigi_164
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 43
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f94d1bd4ed7e8330800000000000000
+      internalID: 3715045164509383160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby luigi_170
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 11
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b32fe7ba868f3410800000000000000
+      internalID: 1459032734640841652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby luigi_171
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 11
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9081a8b7f4af62770800000000000000
+      internalID: 8585824958910437385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby luigi_172
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 11
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07fbb1b309391e550800000000000000
+      internalID: 6188389610660020080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby luigi_173
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 11
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 443feae37436f5210800000000000000
+      internalID: 1323885973115695940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby luigi_174
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 11
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 081fe833b07417f70800000000000000
+      internalID: 9183199228620370304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby luigi_175
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 11
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd25b911097b38010800000000000000
+      internalID: 1189996555954508509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby luigi_176
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 11
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ce7533cd162cc0e0800000000000000
+      internalID: -2248380204693750071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby luigi_177
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 11
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a3b0410dc6f97c00800000000000000
+      internalID: 899020960986870688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby luigi_178
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 11
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47e427a93a577b760800000000000000
+      internalID: 7473571452175928948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby luigi_179
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 11
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1f90148fcae502f0800000000000000
+      internalID: -1007140764652626147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 4340ee12bdccd1d4380e4f08e7a171eb
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      baby luigi_0: -936394440186951113
+      baby luigi_1: 6232479858923444669
+      baby luigi_10: 4707448550679594661
+      baby luigi_100: 7159412582122028922
+      baby luigi_101: -1060308615847496222
+      baby luigi_102: 4026032350999247808
+      baby luigi_103: -2459302249661782403
+      baby luigi_104: 8573782039034387547
+      baby luigi_105: 7068429339858096909
+      baby luigi_106: 8214828352775454761
+      baby luigi_107: 1168619318507296536
+      baby luigi_108: 2385263774478590068
+      baby luigi_109: 7040928535977270427
+      baby luigi_11: -1752690274136249361
+      baby luigi_110: -2199386748694693194
+      baby luigi_111: -4053344986146870447
+      baby luigi_112: -7616175448111719168
+      baby luigi_113: -7576790092537419878
+      baby luigi_114: -1713696117167134287
+      baby luigi_115: 6792126226084607081
+      baby luigi_116: 7933152315363097797
+      baby luigi_117: 4399996694658323422
+      baby luigi_118: 7707036052041382449
+      baby luigi_119: 6660602497625478121
+      baby luigi_12: -2703569880863528296
+      baby luigi_120: 646429770673254838
+      baby luigi_121: -1904252287992698506
+      baby luigi_122: -5182485803929897143
+      baby luigi_123: -8992067407775696926
+      baby luigi_124: 2026316413085348687
+      baby luigi_125: -3687772899231203588
+      baby luigi_126: 8731980407421481096
+      baby luigi_127: 3286720424000379022
+      baby luigi_128: -7971472044754450396
+      baby luigi_129: -8005056065645229980
+      baby luigi_13: 9005223636384776774
+      baby luigi_130: 2611063878554295211
+      baby luigi_131: -3424043701270215659
+      baby luigi_132: -6464980889373940659
+      baby luigi_133: -8234960969948917956
+      baby luigi_134: -3187351154926512669
+      baby luigi_135: 6784730401564539083
+      baby luigi_136: -3057649857984432748
+      baby luigi_137: 1386690919071352579
+      baby luigi_138: 1385087680959671297
+      baby luigi_139: -7815277960796173388
+      baby luigi_14: 4361839950524465929
+      baby luigi_140: 920445411788559290
+      baby luigi_141: 579926080162480601
+      baby luigi_142: 8976315907976328535
+      baby luigi_143: 2711662866324173437
+      baby luigi_144: -912480254698677817
+      baby luigi_145: -75349620068729825
+      baby luigi_146: 8715822061025533587
+      baby luigi_147: 596974335510932961
+      baby luigi_148: 4148675594658726788
+      baby luigi_149: 8994831974592279920
+      baby luigi_15: -7508353046328161222
+      baby luigi_150: 5967914194215332838
+      baby luigi_151: -822344648452051359
+      baby luigi_152: 7065316823431760750
+      baby luigi_153: -948717704549244869
+      baby luigi_154: -4036492008393222786
+      baby luigi_155: 7465949813809984620
+      baby luigi_156: -5029852257101314216
+      baby luigi_157: -6852009309366396087
+      baby luigi_158: 512818815752195153
+      baby luigi_159: -137112948242184605
+      baby luigi_16: -5457616639852848715
+      baby luigi_160: -7708332892402394093
+      baby luigi_161: 4773525276745407297
+      baby luigi_162: -928614417469922890
+      baby luigi_163: 5878957410809002288
+      baby luigi_164: 3715045164509383160
+      baby luigi_165: 4629748530287131631
+      baby luigi_166: -5315773113696624791
+      baby luigi_167: -5919240325487668195
+      baby luigi_168: -2603350073149110324
+      baby luigi_169: 8053938026900021956
+      baby luigi_17: -1132634187635831082
+      baby luigi_170: 1459032734640841652
+      baby luigi_171: 8585824958910437385
+      baby luigi_172: 6188389610660020080
+      baby luigi_173: 1323885973115695940
+      baby luigi_174: 9183199228620370304
+      baby luigi_175: 1189996555954508509
+      baby luigi_176: -2248380204693750071
+      baby luigi_177: 899020960986870688
+      baby luigi_178: 7473571452175928948
+      baby luigi_179: -1007140764652626147
+      baby luigi_18: -6791255642951472323
+      baby luigi_180: 140563659861272616
+      baby luigi_181: 5092172314546314465
+      baby luigi_182: -198432167
+      baby luigi_183: -1899604679
+      baby luigi_184: 203578044
+      baby luigi_19: 3517847535241648963
+      baby luigi_2: 4484769817063518032
+      baby luigi_20: -72857899891879698
+      baby luigi_21: 9124990046686549152
+      baby luigi_22: 2012777927051533653
+      baby luigi_23: -3741357766090423758
+      baby luigi_24: 3364617632904626279
+      baby luigi_25: -8505144824746997620
+      baby luigi_26: 3572086544865750909
+      baby luigi_27: 4616982644734827720
+      baby luigi_28: -2424177090033116743
+      baby luigi_29: 385791837749045084
+      baby luigi_3: 1690856154258764464
+      baby luigi_30: -8646379050267001861
+      baby luigi_31: -2687980395096679941
+      baby luigi_32: -2958868703774783541
+      baby luigi_33: 7418378299732773634
+      baby luigi_34: -5066245204032393339
+      baby luigi_35: -210314612766725698
+      baby luigi_36: 8502565483092262945
+      baby luigi_37: 5152837087855807398
+      baby luigi_38: -8403157170718877340
+      baby luigi_39: -7399075958806813442
+      baby luigi_4: 3988209286317048635
+      baby luigi_40: 7721107061554326242
+      baby luigi_41: -5743021294679914920
+      baby luigi_42: 4318048889453567058
+      baby luigi_43: -665221088973227876
+      baby luigi_44: -4203559362554397331
+      baby luigi_45: 8192030535957628165
+      baby luigi_46: -8490131838850013150
+      baby luigi_47: -2690641780622880396
+      baby luigi_48: 1172707941989845320
+      baby luigi_49: 7636862477408897059
+      baby luigi_5: 7827889535200919931
+      baby luigi_50: -5301320531269526600
+      baby luigi_51: 7697067886263866143
+      baby luigi_52: 4622907371012442267
+      baby luigi_53: 5959371081396414893
+      baby luigi_54: -3724515175148181865
+      baby luigi_55: 3513204108458514872
+      baby luigi_56: 2262508454922601669
+      baby luigi_57: 3611452683907155656
+      baby luigi_58: -2320423613258330915
+      baby luigi_59: 6892443967478476252
+      baby luigi_6: -3841948555050085663
+      baby luigi_60: -4390863447842188357
+      baby luigi_61: -1834993942906195331
+      baby luigi_62: -8678091095900076181
+      baby luigi_63: 2483536810164158881
+      baby luigi_64: -7568171212476858913
+      baby luigi_65: -7215820156056686184
+      baby luigi_66: 4137742310205248529
+      baby luigi_67: 3580213995933610425
+      baby luigi_68: 2226699225608342583
+      baby luigi_69: 2043752485226720358
+      baby luigi_7: 2607013084067847819
+      baby luigi_70: -5003900433860792809
+      baby luigi_71: -1675616548494639098
+      baby luigi_72: -1114741304289945347
+      baby luigi_73: -1153934034703048146
+      baby luigi_74: 3297225697350239101
+      baby luigi_75: -1065123076226482588
+      baby luigi_76: -9011211761982063961
+      baby luigi_77: -4066480684190523000
+      baby luigi_78: -4407883394162372424
+      baby luigi_79: 7735791030543782466
+      baby luigi_8: 1721994181726810988
+      baby luigi_80: -7080239331307182716
+      baby luigi_81: -3293468880856425600
+      baby luigi_82: -1526816431116101328
+      baby luigi_83: 3253412081701019542
+      baby luigi_84: 8984270539536345128
+      baby luigi_85: -4327017737323337736
+      baby luigi_86: 5424721071509742612
+      baby luigi_87: 1218081812625812224
+      baby luigi_88: -3955143720619716295
+      baby luigi_89: -8284243889189134725
+      baby luigi_9: 5360258629945119174
+      baby luigi_90: 7405571978518290862
+      baby luigi_91: -2318932287582198814
+      baby luigi_92: 3204205837174082060
+      baby luigi_93: -4986315359121427959
+      baby luigi_94: -1767901985810303190
+      baby luigi_95: 1901193288553467209
+      baby luigi_96: -6108533555305560833
+      baby luigi_97: 3104748838718959094
+      baby luigi_98: 8238574559486533083
+      baby luigi_99: -6512016316350595383
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
