@@ -6,6 +6,7 @@ using UnityEngine;
 public class PlayerMovementController : MonoBehaviour
 {
     #region Properties
+    public event Action OnDoubleJump;
     #endregion
 
     #region Fields
@@ -159,6 +160,7 @@ public class PlayerMovementController : MonoBehaviour
     {
         _playerRigidbody.linearVelocity = new Vector2(_playerRigidbody.linearVelocity.x, _totalDoubleJumpForce);
         _doubleJumps--;
+        OnDoubleJump?.Invoke();
     }
 
     private void JumpForceCalc()

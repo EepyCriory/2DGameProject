@@ -41,6 +41,8 @@ public class PlayerEventManager : MonoBehaviour
         _playerInputController.Jump += OnJump;
         _playerInputController.StopJump += OnStopJump;
         _playerInputController.Attack += OnAttack;
+
+        _playerMovementController.OnDoubleJump += OnDoubleJump;
         #endregion
     }
     #endregion
@@ -102,6 +104,11 @@ public class PlayerEventManager : MonoBehaviour
     {
         _playerMovementController.Falling(false);
     }
+
+    private void OnDoubleJump()
+    {
+        _playerSoundController.DoubleJump();
+    }
     #endregion
 
     #region Lateral Movement
@@ -112,6 +119,7 @@ public class PlayerEventManager : MonoBehaviour
         _playerPhysicsCheck.FaceLeft();
         _playerSoundController.Walk();
         _playerSoundController.IsWalking(true);
+        _playerSoundController.IsSprinting(false);
     }
     private void OnStopLeft()
     {
@@ -126,6 +134,7 @@ public class PlayerEventManager : MonoBehaviour
         _playerPhysicsCheck.FaceRight();
         _playerSoundController.Walk();
         _playerSoundController.IsWalking(true);
+        _playerSoundController.IsSprinting(false);
     }
     private void OnStopRight()
     {
@@ -138,13 +147,14 @@ public class PlayerEventManager : MonoBehaviour
         _playerMovementController.OnSprint();
         _playerAnimationController.Run();
         _playerSoundController.Walk();
-        _playerSoundController.IsWalking(true);
+        _playerSoundController.IsSprinting(true);
+        _playerSoundController.IsWalking(false);
     }
     private void OnStopSprint()
     {
         _playerMovementController.OnStopSprint();
         _playerAnimationController.Walk();
-        _playerSoundController.IsWalking(false);
+        _playerSoundController.IsSprinting(false);
     }
     #endregion
 

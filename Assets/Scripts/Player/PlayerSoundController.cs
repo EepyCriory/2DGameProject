@@ -1,3 +1,4 @@
+using System.Collections;
 using UnityEngine;
 
 public class PlayerSoundController : MonoBehaviour
@@ -10,7 +11,9 @@ public class PlayerSoundController : MonoBehaviour
 
 	[Header("Conditions")]
 	[SerializeField] private bool _isWalking;
+	[SerializeField] private bool _isSprinting;
 	[SerializeField] private bool _isGrounded;
+	[SerializeField] private bool _coroutineOn;
 	#endregion
 
 	#region Public Methods
@@ -20,7 +23,14 @@ public class PlayerSoundController : MonoBehaviour
 	}
 	public void Jump()
 	{
-        _jump.Play();
+		if(_isGrounded)
+		{ 
+			_jump.Play();
+        }
+    }
+	public void DoubleJump()
+	{
+		_jump.Play();
     }
     public void Walk()
 	{
@@ -28,20 +38,41 @@ public class PlayerSoundController : MonoBehaviour
 		{
 			return;
 		}
-		else if (_isWalking && _isGrounded)
+		else if (_isWalking && _isGrounded && !_coroutineOn)
 		{
-			_walk.Play();
+			StartCoroutine(WalkSound(0.5f));
+        }
+		else if (_isSprinting && _isGrounded && !_coroutineOn)
+		{
+			StartCoroutine(WalkSound(0.3f));
 		}
     }
 
-	public void IsWalking(bool isMoving)
+    #region Booleans
+    public void IsWalking(bool isMoving)
 	{
 		_isWalking = isMoving;
+	}
+
+	public void IsSprinting(bool isRunning)
+	{
+        _isSprinting = isRunning;
 	}
 
 	public void IsGrounded(bool isGrounded)
 	{
         _isGrounded = isGrounded;
+	}
+    #endregion
+    #endregion
+
+    #region Private Methods
+	private IEnumerator WalkSound(float time)
+	{
+		_coroutineOn = true;
+        _walk.Play();
+        yield return new WaitForSeconds(time);
+		_coroutineOn = false;
 	}
     #endregion
 }
